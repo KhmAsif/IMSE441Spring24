@@ -1,0 +1,12 @@
+Product,Product_Type,Type,Inventory,Sales,Marketing,Profit
+Amaretto,Coffee,Regular,777,219,24,94
+Colombian,Coffee,Regular,623,190,27,68
+Decaf Irish Cream,Coffee,Decaf,821,234,26,101
+Green Tea,Tea,Regular,623,100,14,30
+Caffe Mocha,Espresso,Regular,456,134,15,54
+Decaf Espresso,Espresso,Decaf,558,180,23,53
+Chamomile,Herbal Tea,Decaf,1091,341,47,99
+Lemon,Herbal Tea,Decaf,435,150,57,0
+Mint,Herbal Tea,Decaf,336,140,19,33
+Darjeeling,Tea,Regular,338,130,22,17
+Earl Grey,Tea,Regular,965,140,19,36
